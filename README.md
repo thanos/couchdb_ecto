@@ -2,7 +2,8 @@
 
 A CouchDB adapter for Ecto.
 
-[![Build Status](https://travis-ci.org/byteeasy/couchdb_ecto.svg?branch=master](https://travis-ci.org/byteeasy/couchdb_ecto)
+
+[![Build Status](https://travis-ci.org/byteeasy/couchdb_ecto.svg?branch=master)](https://travis-ci.org/byteeasy/couchdb_ecto)
 
 
 ## Installation
